@@ -1,0 +1,16 @@
+gpu architecture,percentage
+Unknown,0.172
+RDNA 3.0,0.0079
+GCN 4.0,0.0213
+RDNA 1.0,0.0098
+RDNA 2.0,0.0384
+GCN 5.0,0.0068000000000000005
+Generation 7.5,0.002
+Generation 9.0,0.0023
+Generation 9.5,0.011800000000000001
+Pascal,0.0815
+Turing 16,0.0889
+Maxwell 2.0,0.0065
+Ampere,0.25179999999999997
+Turing,0.06860000000000001
+Ada Lovelace,0.2306

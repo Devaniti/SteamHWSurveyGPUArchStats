@@ -1,0 +1,3 @@
+[submodule "steamHWsurvey"]
+	path = steamHWsurvey
+	url = https://github.com/jdegene/steamHWsurvey.git
