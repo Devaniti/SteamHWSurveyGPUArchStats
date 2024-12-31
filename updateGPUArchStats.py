@@ -1,4 +1,9 @@
 import csv
+import os
+
+# pull latest master in steamHWsurvey repo
+os.system("git -C steamHWsurvey switch --discard-changes --recurse-submodules master")
+os.system("git -C steamHWsurvey pull")
 
 arch_mapping = {}
 with open('arch_mapping.csv', 'r') as csvfile:
