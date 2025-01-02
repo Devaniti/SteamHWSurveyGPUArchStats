@@ -159,9 +159,9 @@ Intel HD Graphics 5500,Generation 8.0
 Intel HD Graphics 610,Generation 9.5
 Intel HD Graphics 620,Generation 9.5
 Intel HD Graphics 630,Generation 9.5
-Intel Haswell,Unknown
+Intel Haswell,Generation 7.5
 Intel Iris Plus Graphics,Generation 9.5
-Intel Iris Xe Graphics,Unknown
+Intel Iris Xe Graphics,Generation 12.1/Generation 12.2
 Intel Ironlake (Mobile),Generation 5.75
 Intel Ironlake Arrandale,Generation 5.75
 Intel Ivy Bridge,Generation 7.0
@@ -172,8 +172,8 @@ Intel UHD Graphics 620,Generation 9.5
 Intel UHD Graphics 630,Generation 9.5
 Intel ValleyView2 HD Graphics,Unknown
 Intel Valleyview Baytrail,Unknown
-Intel(R) Arc(TM) Graphics,Unknown
-Intel(R) Iris(R) Xe Graphics,Unknown
+Intel(R) Arc(TM) Graphics,Xe-LPG
+Intel(R) Iris(R) Xe Graphics,Generation 12.1/Generation 12.2
 Intel(R) UHD Graphics,Unknown
 Intel(R) UHD Graphics 600,Generation 9.5
 Intel(R) UHD Graphics 630,Generation 9.5
