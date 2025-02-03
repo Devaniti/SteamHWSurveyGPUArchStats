@@ -10,6 +10,7 @@ GCN 3.0, #e9762d
 GCN 4.0, #f1792e
 GCN 5.0, #f97c2e
 GCN 5.1, #ff7f2f
+Generation 12.1/Generation 12.2, #ff00ff
 Generation 12.2, #008cff
 Generation 3.0, #6c73bf
 Generation 4.0, #626dbd
@@ -37,3 +38,4 @@ Turing, #307e08
 Turing 16, #3b8410
 Unknown, #ff00ff
 X1, #00ffee
+Xe-LPG, #ff00ff

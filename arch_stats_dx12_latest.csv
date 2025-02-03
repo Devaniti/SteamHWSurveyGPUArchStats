@@ -2,7 +2,7 @@ gpu architecture,percentage
 GCN 3.0,0.0006999999999999999
 GCN 4.0,0.025500000000000002
 RDNA 3.0,0.0066
-Unknown,0.0801
+Unknown,0.06079999999999999
 GCN 1.0,0.0015
 GCN 2.0,0.0002
 RDNA 1.0,0.0114
@@ -12,6 +12,7 @@ Generation 7.5,0.0024000000000000002
 Generation 9.0,0.0036
 Generation 8.0,0.001
 Generation 9.5,0.0136
+Generation 12.1/Generation 12.2,0.0193
 Generation 12.2,0.0014999999999999998
 Maxwell,0.0061
 Kepler 2.0,0.0004
