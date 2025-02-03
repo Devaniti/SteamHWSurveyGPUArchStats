@@ -1,5 +1,11 @@
 name,architecture
 AMD Radeon (TM) Graphics,Unknown
+AMD Radeon 530,GCN 3.0
+AMD Radeon 535,GCN 3.0
+AMD Radeon 540 Graphics,GCN 4.0
+AMD Radeon 540X Series,GCN 4.0
+AMD Radeon 550X,GCN 4.0
+AMD Radeon 760M Graphics,RDNA 3.0
 AMD Radeon 780M Graphics,RDNA 3.0
 AMD Radeon Graphics,Unknown
 AMD Radeon HD 4350,TeraScale
@@ -18,6 +24,7 @@ AMD Radeon HD 5870,TeraScale 2
 AMD Radeon HD 6310,TeraScale 2
 AMD Radeon HD 6320,TeraScale 2
 AMD Radeon HD 6410D,TeraScale 2
+AMD Radeon HD 6430M,TeraScale 2
 AMD Radeon HD 6450,TeraScale 2
 AMD Radeon HD 6480G,TeraScale 2
 AMD Radeon HD 6490M,TeraScale 2
@@ -34,84 +41,186 @@ AMD Radeon HD 6870,TeraScale 2
 AMD Radeon HD 6900 Series,TeraScale 3
 AMD Radeon HD 6950,TeraScale 3
 AMD Radeon HD 6970,TeraScale 3
+AMD Radeon HD 7000 Series,Unknown
+AMD Radeon HD 7200 Series,TeraScale 2
+AMD Radeon HD 7300 Series,Unknown
 AMD Radeon HD 7310,TeraScale 2
+AMD Radeon HD 7340,TeraScale 2
+AMD Radeon HD 7400 Series,Unknown
+AMD Radeon HD 7400A Series,TeraScale 2
+AMD Radeon HD 7400G,TeraScale 3
 AMD Radeon HD 7400M Series,TeraScale 2
+AMD Radeon HD 7420G,TeraScale 3
 AMD Radeon HD 7480D,TeraScale 3
+AMD Radeon HD 7500 Series,Unknown
+AMD Radeon HD 7500G,TeraScale 3
+AMD Radeon HD 7500M/7600M Series,TeraScale 2
 AMD Radeon HD 7520G,TeraScale 3
 AMD Radeon HD 7520G + 7670M,Unknown
 AMD Radeon HD 7540D,TeraScale 3
 AMD Radeon HD 7560D,TeraScale 3
+AMD Radeon HD 7600 Series,Unknown
+AMD Radeon HD 7600A Series,TeraScale 2
+AMD Radeon HD 7600G,TeraScale 3
 AMD Radeon HD 7600M Series,TeraScale 2
+AMD Radeon HD 7620G,TeraScale 3
 AMD Radeon HD 7640G,TeraScale 3
 AMD Radeon HD 7640G + 7670M,Unknown
+AMD Radeon HD 7660D,TeraScale 3
 AMD Radeon HD 7660G,TeraScale 3
 AMD Radeon HD 7660G + 7670M,Unknown
 AMD Radeon HD 7670M,TeraScale 2
 AMD Radeon HD 7700 Series,GCN 1.0
+AMD Radeon HD 7700M Series,GCN 1.0
 AMD Radeon HD 7750,GCN 1.0
+AMD Radeon HD 7750M,GCN 1.0
 AMD Radeon HD 7770,GCN 1.0
 AMD Radeon HD 7800 Series,GCN 1.0
+AMD Radeon HD 7800M Series,GCN 1.0
 AMD Radeon HD 7850,GCN 1.0
 AMD Radeon HD 7870,GCN 1.0
 AMD Radeon HD 7900 Series,GCN 1.0
 AMD Radeon HD 7950,GCN 1.0
 AMD Radeon HD 7970,GCN 1.0
+AMD Radeon HD 7970M,GCN 1.0
+AMD Radeon HD 8180,GCN 2.0
+AMD Radeon HD 8210,GCN 2.0
+AMD Radeon HD 8240,GCN 2.0
+AMD Radeon HD 8250,GCN 2.0
+AMD Radeon HD 8280,GCN 2.0
+AMD Radeon HD 8310G,TeraScale 3
 AMD Radeon HD 8330,GCN 2.0
+AMD Radeon HD 8330E,GCN 2.0
+AMD Radeon HD 8350G,TeraScale 3
 AMD Radeon HD 8370D,TeraScale 3
 AMD Radeon HD 8400,GCN 2.0
+AMD Radeon HD 8400E,GCN 2.0
+AMD Radeon HD 8410G,TeraScale 3
+AMD Radeon HD 8450G,TeraScale 3
 AMD Radeon HD 8470D,TeraScale 3
+AMD Radeon HD 8490,TeraScale 2
 AMD Radeon HD 8500 Series,Unknown
+AMD Radeon HD 8500M,Unknown
+AMD Radeon HD 8500M Series,Unknown
+AMD Radeon HD 8500M/8700M,Unknown
+AMD Radeon HD 8510G,TeraScale 3
+AMD Radeon HD 8530M,GCN 1.0
+AMD Radeon HD 8550D,TeraScale 3
+AMD Radeon HD 8550G,TeraScale 3
 AMD Radeon HD 8570D,TeraScale 3
 AMD Radeon HD 8600,Unknown
 AMD Radeon HD 8600 Series,Unknown
+AMD Radeon HD 8600/8700M,GCN 1.0
 AMD Radeon HD 8600M Series,GCN 1.0
+AMD Radeon HD 8610G,TeraScale 3
+AMD Radeon HD 8650D,TeraScale 3
 AMD Radeon HD 8650G,TeraScale 3
+AMD Radeon HD 8670D,TeraScale 3
+AMD Radeon HD 8790M,GCN 1.0
 AMD Radeon HD 8800 Series,GCN 1.0
+AMD Radeon HD 8800M Series,GCN 1.0
+AMD Radeon HD 8950,GCN 1.0
+AMD Radeon HD 8970M,GCN 1.0
+AMD Radeon Pro 460,GCN 4.0
+AMD Radeon Pro 5500M,RDNA 1.0
+AMD Radeon Pro 555,GCN 4.0
+AMD Radeon Pro 575,GCN 4.0
+AMD Radeon Pro 580,GCN 4.0
+AMD Radeon R2 Graphics,Unknown
+AMD Radeon R3 Graphics,Unknown
 AMD Radeon R4 Graphics,Unknown
+AMD Radeon R5 340,GCN 1.0
 AMD Radeon R5 Graphics,Unknown
+AMD Radeon R5 M200 Series,Unknown
+AMD Radeon R5 M255,GCN 3.0
+AMD Radeon R5 M315,GCN 3.0
+AMD Radeon R5 M320,GCN 1.0
 AMD Radeon R5 M330,GCN 1.0
+AMD Radeon R5 M335,GCN 1.0
+AMD Radeon R5 M435,GCN 1.0
 AMD Radeon R6 Graphics,Unknown
 AMD Radeon R7 200 Series,Unknown
+AMD Radeon R7 240 Series,GCN 1.0
 AMD Radeon R7 300 Series,Unknown
+AMD Radeon R7 350,GCN 1.0
+AMD Radeon R7 360,GCN 2.0
+AMD Radeon R7 370 Series,GCN 1.0
 AMD Radeon R7 Graphics,Unknown
 AMD Radeon R7 M260,GCN 3.0
 AMD Radeon R7 M260 Series,Unknown
+AMD Radeon R7 M265 Series,Unknown
+AMD Radeon R7 M340,Unknown
+AMD Radeon R7 M350,Unknown
+AMD Radeon R7 M360,GCN 3.0
+AMD Radeon R7 M370,GCN 1.0
+AMD Radeon R7 M380,GCN 1.0
 AMD Radeon R7 M445,GCN 3.0
+AMD Radeon R7 Series / HD 9000 Series,Unknown
 AMD Radeon R9 200 Series,Unknown
 AMD Radeon R9 380 Series,GCN 3.0
 AMD Radeon R9 390 Series,GCN 2.0
+AMD Radeon R9 Fury,GCN 3.0
+AMD Radeon R9 Fury Series,GCN 3.0
+AMD Radeon R9 M280X,GCN 2.0
+AMD Radeon R9 M295X,GCN 3.0
+AMD Radeon R9 M360,GCN 1.0
+AMD Radeon R9 M370X,GCN 1.0
+AMD Radeon R9 M375,GCN 1.0
+AMD Radeon R9 M375X,GCN 1.0
+AMD Radeon R9 M380,GCN 2.0
+AMD Radeon R9 M385,GCN 2.0
+AMD Radeon R9 M390X,GCN 3.0
+AMD Radeon R9 M395X,GCN 3.0
 AMD Radeon RX 460,GCN 4.0
 AMD Radeon RX 470,GCN 4.0
 AMD Radeon RX 480,GCN 4.0
 AMD Radeon RX 550,GCN 4.0
+AMD Radeon RX 5500,RDNA 1.0
 AMD Radeon RX 5500 XT,RDNA 1.0
+AMD Radeon RX 5500M,RDNA 1.0
 AMD Radeon RX 560,GCN 4.0
 AMD Radeon RX 5600 XT,RDNA 1.0
+AMD Radeon RX 5600M,RDNA 1.0
 AMD Radeon RX 570,GCN 4.0
 AMD Radeon RX 5700,RDNA 1.0
 AMD Radeon RX 5700 XT,RDNA 1.0
 AMD Radeon RX 580,GCN 4.0
 AMD Radeon RX 580 2048SP,GCN 4.0
 AMD Radeon RX 590 Series,GCN 4.0
+AMD Radeon RX 6400,RDNA 2.0
 AMD Radeon RX 6500 XT,RDNA 2.0
+AMD Radeon RX 6500M,RDNA 2.0
 AMD Radeon RX 6600,RDNA 2.0
 AMD Radeon RX 6600 XT,RDNA 2.0
+AMD Radeon RX 6600M,RDNA 2.0
 AMD Radeon RX 6650 XT,RDNA 2.0
+AMD Radeon RX 6700,Unknown
 AMD Radeon RX 6700 XT,RDNA 2.0
+AMD Radeon RX 6700M,RDNA 2.0
+AMD Radeon RX 6700S,RDNA 2.0
 AMD Radeon RX 6750 GRE 10GB,RDNA 2.0
 AMD Radeon RX 6750 GRE 12GB,RDNA 2.0
 AMD Radeon RX 6750 XT,RDNA 2.0
 AMD Radeon RX 6800,RDNA 2.0
 AMD Radeon RX 6800 XT,RDNA 2.0
+AMD Radeon RX 6800M,RDNA 2.0
+AMD Radeon RX 6800S,RDNA 2.0
 AMD Radeon RX 6900 XT,RDNA 2.0
 AMD Radeon RX 6950 XT,RDNA 2.0
 AMD Radeon RX 7700 XT,RDNA 3.0
 AMD Radeon RX 7900 XTX,RDNA 3.0
 AMD Radeon RX Vega,GCN 5.0
+AMD Radeon RX Vega 10 Graphics,GCN 5.0
 AMD Radeon RX Vega 11 Graphics,GCN 5.0
+AMD Radeon RX590 GME,Unknown
+AMD Radeon VII,GCN 5.1
+AMD Radeon Vega 10 Mobile Graphics,GCN 5.0
+AMD Radeon Vega 11 Graphics,GCN 5.0
 AMD Radeon Vega 3 Graphics,GCN 5.0
+AMD Radeon Vega 6 Graphics,GCN 5.0
 AMD Radeon Vega 8 Graphics,GCN 5.0
 AMD Radeon Vega 8 Mobile Graphics,GCN 5.0
+AMD Radeon Vega Frontier Edition,GCN 5.0
 AMD Radeon(TM) Graphics,Unknown
 ATI 760G,Unknown
 ATI Mobility Radeon HD 4200,TeraScale
@@ -141,35 +250,65 @@ ATI Radeon HD 7970,GCN 1.0
 ATI Radeon HD 8800 Series,GCN 1.0
 Desktop Haswell GT1,Generation 7.5
 Intel Cherryview Cherrytrail,Unknown
+Intel Desktop Haswell GT1,Generation 7.5
 Intel G33/G31 Express,Generation 3.0
 Intel G33/G31 Express Chipset Family,Generation 3.0
 Intel G41 Express,Generation 4.0
 Intel G41 Express Chipset,Generation 4.0
 Intel HD Graphics,Unknown
 Intel HD Graphics - Braswell,Generation 8.0
+Intel HD Graphics - Broadwell,Generation 8.0
+Intel HD Graphics - Cherry Trail,Generation 8.0
 Intel HD Graphics 2000,Generation 6.0
 Intel HD Graphics 2500,Generation 6.0
 Intel HD Graphics 3000,Generation 6.0
 Intel HD Graphics 4000,Generation 7.0
 Intel HD Graphics 4400,Generation 7.5
 Intel HD Graphics 4600,Generation 7.5
+Intel HD Graphics 5000,Generation 7.5
+Intel HD Graphics 510,Generation 9.0
+Intel HD Graphics 515,Generation 9.0
 Intel HD Graphics 520,Generation 9.0
 Intel HD Graphics 530,Generation 9.0
+Intel HD Graphics 5300,Generation 8.0
 Intel HD Graphics 5500,Generation 8.0
+Intel HD Graphics 5600,Generation 8.0
+Intel HD Graphics 6000,Generation 8.0
 Intel HD Graphics 610,Generation 9.5
+Intel HD Graphics 615,Generation 9.5
 Intel HD Graphics 620,Generation 9.5
 Intel HD Graphics 630,Generation 9.5
 Intel Haswell,Unknown
+Intel Iris Graphics 5100,Generation 7.5
+Intel Iris Graphics 540,Generation 9.0
+Intel Iris Graphics 550,Generation 9.0
+Intel Iris Graphics 6100,Generation 8.0
 Intel Iris Plus Graphics,Generation 9.5
+Intel Iris Plus Graphics 640,Generation 9.5
+Intel Iris Plus Graphics 650,Generation 9.5
+Intel Iris Plus Graphics 655,Generation 9.5
+Intel Iris Pro Graphics 5200,Generation 7.5
+Intel Iris Pro Graphics 580,Generation 9.0
+Intel Iris Pro Graphics 6200,Generation 8.0
+Intel Iris Pro Graphics P6300,Generation 8.0
 Intel Iris Xe Graphics,Unknown
 Intel Ironlake (Mobile),Generation 5.75
 Intel Ironlake Arrandale,Generation 5.75
 Intel Ivy Bridge,Generation 7.0
+Intel Mobile Haswell - ULT GT1,Generation 7.5
+Intel Mobile Haswell - ULX GT1,Generation 7.5
+Intel Mobile Haswell GT1,Generation 7.5
 Intel Sandy Bridge,Generation 6.0
+Intel Server Haswell GT2,Generation 7.5
 Intel UHD Graphics,Unknown
 Intel UHD Graphics 600,Generation 9.5
+Intel UHD Graphics 605,Generation 9.5
+Intel UHD Graphics 610,Generation 9.5
+Intel UHD Graphics 615,Generation 9.5
 Intel UHD Graphics 620,Generation 9.5
 Intel UHD Graphics 630,Generation 9.5
+Intel UHD Graphics 730,Generation 12.2
+Intel UHD Graphics 770,Generation 12.2
 Intel ValleyView2 HD Graphics,Unknown
 Intel Valleyview Baytrail,Unknown
 Intel(R) Arc(TM) Graphics,Unknown
@@ -177,27 +316,50 @@ Intel(R) Iris(R) Xe Graphics,Unknown
 Intel(R) UHD Graphics,Unknown
 Intel(R) UHD Graphics 600,Generation 9.5
 Intel(R) UHD Graphics 630,Generation 9.5
+Intel(R) UHD Graphics 770,Generation 12.2
+Mobile Haswell - ULT GT1,Generation 7.5
+Mobile Haswell - ULX GT1,Generation 7.5
+Mobile Haswell GT1,Generation 7.5
 Mobile Intel 4 Series Express,Unknown
 Mobile Intel 4 Series Express Chipset Family,Unknown
 Mobile Intel 965 Express,Generation 4.0
+NVIDIA GRID K2,Kepler
+NVIDIA GRID K520,Kepler
 NVIDIA GeForce 210,Tesla 2.0
 NVIDIA GeForce 310M,Tesla 2.0
+NVIDIA GeForce 410M,Fermi 2.0
+NVIDIA GeForce 505,Tesla 2.0
+NVIDIA GeForce 510,Fermi 2.0
+NVIDIA GeForce 605,Fermi 2.0
 NVIDIA GeForce 6100,Curie
 NVIDIA GeForce 610M,Unknown
+NVIDIA GeForce 615,Fermi
+NVIDIA GeForce 705A,Fermi 2.0
+NVIDIA GeForce 710A,Unknown
+NVIDIA GeForce 810A,Kepler 2.0
+NVIDIA GeForce 810M,Unknown
+NVIDIA GeForce 820M,Unknown
+NVIDIA GeForce 825M,Kepler 2.0
+NVIDIA GeForce 830M,Maxwell
 NVIDIA GeForce 8400,Tesla
 NVIDIA GeForce 8400 GS,Unknown
 NVIDIA GeForce 840M,Maxwell
+NVIDIA GeForce 845M,Maxwell
 NVIDIA GeForce 8600,Tesla
 NVIDIA GeForce 8600 GT,Tesla
 NVIDIA GeForce 8800,Tesla
+NVIDIA GeForce 910M,Kepler 2.0
 NVIDIA GeForce 920A,Kepler 2.0
 NVIDIA GeForce 920M,Kepler 2.0
 NVIDIA GeForce 920MX,Maxwell
 NVIDIA GeForce 930M,Maxwell
+NVIDIA GeForce 930MX,Maxwell
 NVIDIA GeForce 9400,Tesla
 NVIDIA GeForce 9400 GT,Unknown
 NVIDIA GeForce 940M,Maxwell
 NVIDIA GeForce 940MX,Maxwell
+NVIDIA GeForce 945A,Maxwell
+NVIDIA GeForce 945M,Maxwell
 NVIDIA GeForce 9500,Tesla
 NVIDIA GeForce 9500 GT,Tesla
 NVIDIA GeForce 9600,Tesla
@@ -207,28 +369,48 @@ NVIDIA GeForce 9800 GT,Tesla
 NVIDIA GeForce GT 1030,Unknown
 NVIDIA GeForce GT 220,Unknown
 NVIDIA GeForce GT 240,Tesla 2.0
+NVIDIA GeForce GT 415,Tesla 2.0
+NVIDIA GeForce GT 415M,Fermi
+NVIDIA GeForce GT 420,Fermi
+NVIDIA GeForce GT 420M,Fermi
+NVIDIA GeForce GT 425M,Fermi
 NVIDIA GeForce GT 430,Fermi
+NVIDIA GeForce GT 435M,Fermi
 NVIDIA GeForce GT 440,Fermi
+NVIDIA GeForce GT 445M,Fermi
 NVIDIA GeForce GT 520,Fermi 2.0
 NVIDIA GeForce GT 520M,Unknown
+NVIDIA GeForce GT 520MX,Fermi 2.0
 NVIDIA GeForce GT 525M,Fermi
+NVIDIA GeForce GT 530,Fermi
 NVIDIA GeForce GT 540M,Unknown
+NVIDIA GeForce GT 545,Fermi 2.0
+NVIDIA GeForce GT 550M,Fermi 2.0
 NVIDIA GeForce GT 555M,Fermi
 NVIDIA GeForce GT 610,Unknown
 NVIDIA GeForce GT 620,Unknown
 NVIDIA GeForce GT 620M,Unknown
+NVIDIA GeForce GT 625,Fermi 2.0
 NVIDIA GeForce GT 630,Unknown
 NVIDIA GeForce GT 630M,Unknown
+NVIDIA GeForce GT 635,Kepler 2.0
 NVIDIA GeForce GT 635M,Unknown
 NVIDIA GeForce GT 640,Unknown
 NVIDIA GeForce GT 640M,Unknown
+NVIDIA GeForce GT 640M LE,Unknown
+NVIDIA GeForce GT 645,Unknown
+NVIDIA GeForce GT 645M,Kepler
 NVIDIA GeForce GT 650M,Kepler
+NVIDIA GeForce GT 705,Fermi 2.0
 NVIDIA GeForce GT 710,Unknown
 NVIDIA GeForce GT 720,Unknown
 NVIDIA GeForce GT 720M,Unknown
 NVIDIA GeForce GT 730,Unknown
+NVIDIA GeForce GT 730M,Unknown
+NVIDIA GeForce GT 735M,Kepler 2.0
 NVIDIA GeForce GT 740,Unknown
 NVIDIA GeForce GT 740M,Unknown
+NVIDIA GeForce GT 745M,Kepler
 NVIDIA GeForce GT 750M,Kepler
 NVIDIA GeForce GT 755M,Kepler
 NVIDIA GeForce GTS 250,Tesla
@@ -236,10 +418,12 @@ NVIDIA GeForce GTS 450,Fermi
 NVIDIA GeForce GTX 1050,Pascal
 NVIDIA GeForce GTX 1050 Ti,Pascal
 NVIDIA GeForce GTX 1060,Pascal
+NVIDIA GeForce GTX 1060 6GB,Pascal
 NVIDIA GeForce GTX 1070,Pascal
 NVIDIA GeForce GTX 1070 Ti,Pascal
 NVIDIA GeForce GTX 1080,Pascal
 NVIDIA GeForce GTX 1080 Ti,Pascal
+NVIDIA GeForce GTX 1630,Turing 16
 NVIDIA GeForce GTX 1650,Turing 16
 NVIDIA GeForce GTX 1650 SUPER,Turing 16
 NVIDIA GeForce GTX 1650 Ti,Turing 16
@@ -248,13 +432,26 @@ NVIDIA GeForce GTX 1660 SUPER,Turing 16
 NVIDIA GeForce GTX 1660 Ti,Turing 16
 NVIDIA GeForce GTX 260,Tesla 2.0
 NVIDIA GeForce GTX 460,Unknown
+NVIDIA GeForce GTX 460 SE,Unknown
+NVIDIA GeForce GTX 460M,Fermi
+NVIDIA GeForce GTX 465,Fermi
 NVIDIA GeForce GTX 470,Fermi
+NVIDIA GeForce GTX 470M,Fermi
+NVIDIA GeForce GTX 480,Fermi
+NVIDIA GeForce GTX 480M,Fermi
+NVIDIA GeForce GTX 485M,Fermi
 NVIDIA GeForce GTX 550 Ti,Fermi 2.0
+NVIDIA GeForce GTX 555,Fermi 2.0
 NVIDIA GeForce GTX 560,Fermi 2.0
+NVIDIA GeForce GTX 560 SE,Fermi 2.0
 NVIDIA GeForce GTX 560 Ti,Fermi 2.0
 NVIDIA GeForce GTX 560M,Fermi 2.0
 NVIDIA GeForce GTX 570,Fermi 2.0
+NVIDIA GeForce GTX 570M,Fermi 2.0
 NVIDIA GeForce GTX 580,Fermi 2.0
+NVIDIA GeForce GTX 580M,Fermi 2.0
+NVIDIA GeForce GTX 590,Fermi 2.0
+NVIDIA GeForce GTX 645,Kepler
 NVIDIA GeForce GTX 650,Kepler
 NVIDIA GeForce GTX 650 Ti,Kepler
 NVIDIA GeForce GTX 650 Ti Boost,Kepler
@@ -262,19 +459,31 @@ NVIDIA GeForce GTX 660,Kepler
 NVIDIA GeForce GTX 660 Ti,Kepler
 NVIDIA GeForce GTX 660M,Kepler
 NVIDIA GeForce GTX 670,Kepler
+NVIDIA GeForce GTX 670M,Fermi 2.0
+NVIDIA GeForce GTX 670MX,Kepler
+NVIDIA GeForce GTX 675M,Fermi 2.0
+NVIDIA GeForce GTX 675MX,Kepler
 NVIDIA GeForce GTX 680,Kepler
+NVIDIA GeForce GTX 680M,Kepler
+NVIDIA GeForce GTX 680MX,Kepler
+NVIDIA GeForce GTX 690,Kepler
 NVIDIA GeForce GTX 745,Maxwell
 NVIDIA GeForce GTX 750,Unknown
 NVIDIA GeForce GTX 750 Ti,Unknown
 NVIDIA GeForce GTX 760,Kepler
+NVIDIA GeForce GTX 760 Ti,Kepler
+NVIDIA GeForce GTX 760M,Kepler
 NVIDIA GeForce GTX 765M,Kepler
 NVIDIA GeForce GTX 770,Kepler
 NVIDIA GeForce GTX 770M,Kepler
+NVIDIA GeForce GTX 775M,Kepler
 NVIDIA GeForce GTX 780,Kepler
 NVIDIA GeForce GTX 780 Ti,Kepler
+NVIDIA GeForce GTX 780M,Kepler
 NVIDIA GeForce GTX 850M,Maxwell
 NVIDIA GeForce GTX 860M,Unknown
 NVIDIA GeForce GTX 870M,Kepler
+NVIDIA GeForce GTX 880M,Kepler
 NVIDIA GeForce GTX 950,Maxwell 2.0
 NVIDIA GeForce GTX 950M,Maxwell
 NVIDIA GeForce GTX 960,Maxwell 2.0
@@ -285,6 +494,10 @@ NVIDIA GeForce GTX 970M,Maxwell 2.0
 NVIDIA GeForce GTX 980,Maxwell 2.0
 NVIDIA GeForce GTX 980 Ti,Maxwell 2.0
 NVIDIA GeForce GTX 980M,Maxwell 2.0
+NVIDIA GeForce GTX TITAN,Kepler
+NVIDIA GeForce GTX TITAN Black,Kepler
+NVIDIA GeForce GTX TITAN X,Maxwell 2.0
+NVIDIA GeForce GTX TITAN Z,Kepler
 NVIDIA GeForce MX110,Maxwell
 NVIDIA GeForce MX130,Maxwell
 NVIDIA GeForce MX150,Pascal
@@ -293,6 +506,7 @@ NVIDIA GeForce MX250,Pascal
 NVIDIA GeForce MX330,Pascal
 NVIDIA GeForce MX350,Pascal
 NVIDIA GeForce MX450,Turing
+NVIDIA GeForce MX550,Turing
 NVIDIA GeForce RTX 2050,Ampere
 NVIDIA GeForce RTX 2060,Turing
 NVIDIA GeForce RTX 2060 SUPER,Turing
@@ -304,8 +518,10 @@ NVIDIA GeForce RTX 2080,Turing
 NVIDIA GeForce RTX 2080 SUPER,Turing
 NVIDIA GeForce RTX 2080 Ti,Turing
 NVIDIA GeForce RTX 3050,Ampere
+NVIDIA GeForce RTX 3050 4GB Laptop GPU,Ampere
 NVIDIA GeForce RTX 3050 6GB Laptop GPU,Ampere
 NVIDIA GeForce RTX 3050 Laptop GPU,Ampere
+NVIDIA GeForce RTX 3050 OEM,Ampere
 NVIDIA GeForce RTX 3050 Ti,Ampere
 NVIDIA GeForce RTX 3050 Ti Laptop GPU,Ampere
 NVIDIA GeForce RTX 3060,Ampere
@@ -318,7 +534,9 @@ NVIDIA GeForce RTX 3070 Ti Laptop GPU,Ampere
 NVIDIA GeForce RTX 3080,Ampere
 NVIDIA GeForce RTX 3080 Laptop GPU,Ampere
 NVIDIA GeForce RTX 3080 Ti,Ampere
+NVIDIA GeForce RTX 3080 Ti Laptop GPU,Ampere
 NVIDIA GeForce RTX 3090,Ampere
+NVIDIA GeForce RTX 3090 Ti,Ampere
 NVIDIA GeForce RTX 4050 Laptop GPU,Ada Lovelace
 NVIDIA GeForce RTX 4060,Ada Lovelace
 NVIDIA GeForce RTX 4060 Laptop GPU,Ada Lovelace
@@ -332,9 +550,70 @@ NVIDIA GeForce RTX 4080,Ada Lovelace
 NVIDIA GeForce RTX 4080 Laptop GPU,Ada Lovelace
 NVIDIA GeForce RTX 4080 SUPER,Ada Lovelace
 NVIDIA GeForce RTX 4090,Ada Lovelace
+NVIDIA GeForce RTX 4090 D,Ada Lovelace
+NVIDIA GeForce RTX 4090 Laptop GPU,Ada Lovelace
 NVIDIA GeForce RTX T10-8,Turing
 NVIDIA Graphics Device,Unknown
 NVIDIA N16V-GM,Unknown
+NVIDIA NVS 315,Fermi 2.0
+NVIDIA NVS 4200M,Fermi 2.0
+NVIDIA NVS 5200M,Unknown
+NVIDIA NVS 5400M,Fermi
+NVIDIA Quadro 1000M,Fermi
+NVIDIA Quadro 1100M,Unknown
+NVIDIA Quadro 2000,Fermi
+NVIDIA Quadro 2000M,Fermi
+NVIDIA Quadro 2100M,Unknown
+NVIDIA Quadro 3000M,Fermi
+NVIDIA Quadro 4000,Fermi
+NVIDIA Quadro 4000M,Fermi
+NVIDIA Quadro 5000M,Fermi
+NVIDIA Quadro 5010M,Fermi 2.0
+NVIDIA Quadro 600,Fermi
+NVIDIA Quadro 6000,Fermi
+NVIDIA Quadro K1000M,Kepler
+NVIDIA Quadro K1100M,Kepler
+NVIDIA Quadro K1200,Maxwell
+NVIDIA Quadro K2000,Kepler
+NVIDIA Quadro K2000D,Kepler
+NVIDIA Quadro K2000M,Kepler
+NVIDIA Quadro K2100M,Kepler
+NVIDIA Quadro K2200,Maxwell
+NVIDIA Quadro K2200M,Maxwell
+NVIDIA Quadro K3000M,Kepler
+NVIDIA Quadro K3100M,Kepler
+NVIDIA Quadro K4000,Kepler
+NVIDIA Quadro K4000M,Kepler
+NVIDIA Quadro K4100M,Kepler
+NVIDIA Quadro K420,Kepler
+NVIDIA Quadro K4200,Kepler
+NVIDIA Quadro K5000M,Kepler
+NVIDIA Quadro K5100M,Kepler
+NVIDIA Quadro K510M,Kepler 2.0
+NVIDIA Quadro K5200,Kepler
+NVIDIA Quadro K600,Kepler
+NVIDIA Quadro K6000,Kepler
+NVIDIA Quadro K610M,Kepler 2.0
+NVIDIA Quadro K620,Maxwell
+NVIDIA Quadro K620M,Maxwell
+NVIDIA Quadro M1000M,Maxwell
+NVIDIA Quadro M1200,Maxwell
+NVIDIA Quadro M2000M,Maxwell
+NVIDIA Quadro M4000,Maxwell 2.0
+NVIDIA Quadro M5000,Maxwell 2.0
+NVIDIA Quadro M5000M,Maxwell 2.0
+NVIDIA Quadro M6000,Maxwell 2.0
+NVIDIA Quadro P5000,Pascal
+NVIDIA Quadro RTX 4000,Turing
+NVIDIA Quadro RTX 6000,Turing
+NVIDIA RTX A2000 Laptop GPU,Ampere
+NVIDIA RTX A4500,Ampere
+NVIDIA TITAN V,Volta
+NVIDIA TITAN X,Unknown
+NVIDIA TITAN Xp,Pascal
 Other,Unknown
+Qualcomm Adreno X1,X1
 RDPDD Chained DD,Unknown
 Radeon RX 590 Series,GCN 4.0
+Server Haswell GT2,Generation 7.5
+Steam Deck GPU,RDNA 2.0

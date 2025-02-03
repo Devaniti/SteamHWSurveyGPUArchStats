@@ -1,0 +1,39 @@
+architecture,color
+Ada Lovelace, #00ff00
+Ampere, #258801
+Curie, #a9bf5b
+Fermi, #88ad44
+Fermi 2.0, #7da73c
+GCN 1.0, #d9702c
+GCN 2.0, #e1732d
+GCN 3.0, #e9762d
+GCN 4.0, #f1792e
+GCN 5.0, #f97c2e
+GCN 5.1, #ff7f2f
+Generation 12.2, #008cff
+Generation 3.0, #6c73bf
+Generation 4.0, #626dbd
+Generation 5.75, #5867bb
+Generation 6.0, #4e61b9
+Generation 7.0, #445bb7
+Generation 7.5, #3a55b5
+Generation 8.0, #304fb3
+Generation 9.0, #2649b1
+Generation 9.5, #1c43af
+Kepler, #72a135
+Kepler 2.0, #679b2d
+Maxwell, #5c9526
+Maxwell 2.0, #51901e
+Pascal, #468a17
+RDNA 1.0, #ff6120
+RDNA 2.0, #ff3100
+RDNA 3.0, #ff0000
+TeraScale, #c2672b
+TeraScale 2, #c96a2b
+TeraScale 3, #d16d2c
+Tesla, #9eb953
+Tesla 2.0, #93b34c
+Turing, #307e08
+Turing 16, #3b8410
+Unknown, #ff00ff
+X1, #00ffee
