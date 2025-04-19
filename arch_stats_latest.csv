@@ -1,5 +1,5 @@
 gpu architecture,percentage
-Unknown,0.16390000000000002
+Unknown,0.16190000000000002
 RDNA 3.0,0.0093
 GCN 4.0,0.0211
 RDNA 1.0,0.0098
@@ -16,3 +16,4 @@ Maxwell 2.0,0.005900000000000001
 Ampere,0.2424
 Turing,0.067
 Ada Lovelace,0.23770000000000002
+Blackwell,0.002

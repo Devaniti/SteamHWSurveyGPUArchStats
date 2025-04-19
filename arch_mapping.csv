@@ -5,7 +5,7 @@ AMD Radeon 535,GCN 3.0
 AMD Radeon 540 Graphics,GCN 4.0
 AMD Radeon 540X Series,GCN 4.0
 AMD Radeon 550X,GCN 4.0
-AMD Radeon 740M Graphics,Unknown
+AMD Radeon 740M Graphics,RDNA 3.0
 AMD Radeon 760M Graphics,RDNA 3.0
 AMD Radeon 780M Graphics,RDNA 3.0
 AMD Radeon Graphics,Unknown
@@ -553,7 +553,7 @@ NVIDIA GeForce RTX 4080 SUPER,Ada Lovelace
 NVIDIA GeForce RTX 4090,Ada Lovelace
 NVIDIA GeForce RTX 4090 D,Ada Lovelace
 NVIDIA GeForce RTX 4090 Laptop GPU,Ada Lovelace
-NVIDIA GeForce RTX 5080,Unknown
+NVIDIA GeForce RTX 5080,Blackwell
 NVIDIA GeForce RTX T10-8,Turing
 NVIDIA Graphics Device,Unknown
 NVIDIA N16V-GM,Unknown
