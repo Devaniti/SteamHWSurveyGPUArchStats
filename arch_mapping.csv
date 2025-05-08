@@ -209,6 +209,7 @@ AMD Radeon RX 6800S,RDNA 2.0
 AMD Radeon RX 6900 XT,RDNA 2.0
 AMD Radeon RX 6950 XT,RDNA 2.0
 AMD Radeon RX 7700 XT,RDNA 3.0
+AMD Radeon RX 7800 XT,RDNA 3.0
 AMD Radeon RX 7900 XTX,RDNA 3.0
 AMD Radeon RX Vega,GCN 5.0
 AMD Radeon RX Vega 10 Graphics,GCN 5.0
@@ -222,6 +223,7 @@ AMD Radeon Vega 6 Graphics,GCN 5.0
 AMD Radeon Vega 8 Graphics,GCN 5.0
 AMD Radeon Vega 8 Mobile Graphics,GCN 5.0
 AMD Radeon Vega Frontier Edition,GCN 5.0
+AMD Radeon(TM) 780M,RDNA 3.0
 AMD Radeon(TM) Graphics,Unknown
 ATI 760G,Unknown
 ATI Mobility Radeon HD 4200,TeraScale
@@ -553,6 +555,8 @@ NVIDIA GeForce RTX 4080 SUPER,Ada Lovelace
 NVIDIA GeForce RTX 4090,Ada Lovelace
 NVIDIA GeForce RTX 4090 D,Ada Lovelace
 NVIDIA GeForce RTX 4090 Laptop GPU,Ada Lovelace
+NVIDIA GeForce RTX 5070,Blackwell
+NVIDIA GeForce RTX 5070 Ti,Blackwell
 NVIDIA GeForce RTX 5080,Blackwell
 NVIDIA GeForce RTX T10-8,Turing
 NVIDIA Graphics Device,Unknown
