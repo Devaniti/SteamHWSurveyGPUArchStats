@@ -214,6 +214,7 @@ AMD Radeon RX 7800 XT,RDNA 3.0
 AMD Radeon RX 7900 GRE,RDNA 3.0
 AMD Radeon RX 7900 XTX,RDNA 3.0
 AMD Radeon RX 9070,RDNA 4.0
+AMD Radeon RX 9070 GRE,RDNA 4.0
 AMD Radeon RX Vega,GCN 5.0
 AMD Radeon RX Vega 10 Graphics,GCN 5.0
 AMD Radeon RX Vega 11 Graphics,GCN 5.0
@@ -318,6 +319,7 @@ Intel UHD Graphics 770,Generation 12.2
 Intel ValleyView2 HD Graphics,Unknown
 Intel Valleyview Baytrail,Unknown
 Intel(R) Arc(TM) Graphics,Xe-LPG
+Intel(R) Graphics,Unknown
 Intel(R) Iris(R) Xe Graphics,Generation 12.1/Generation 12.2
 Intel(R) UHD Graphics,Unknown
 Intel(R) UHD Graphics 600,Generation 9.5
