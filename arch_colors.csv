@@ -1,6 +1,7 @@
 architecture,color
 Ada Lovelace, #00ff00
-Ampere, #258801
+Ampere, #12aa00
+Blackwell, #258801
 Curie, #a9bf5b
 Fermi, #88ad44
 Fermi 2.0, #7da73c
@@ -27,8 +28,9 @@ Maxwell, #5c9526
 Maxwell 2.0, #51901e
 Pascal, #468a17
 RDNA 1.0, #ff6120
-RDNA 2.0, #ff3100
-RDNA 3.0, #ff0000
+RDNA 2.0, #ff4113
+RDNA 3.0, #ff2007
+RDNA 4.0, #ff0000
 TeraScale, #c2672b
 TeraScale 2, #c96a2b
 TeraScale 3, #d16d2c
