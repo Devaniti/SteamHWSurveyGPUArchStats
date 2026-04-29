@@ -8,6 +8,7 @@ AMD Radeon 550X,GCN 4.0
 AMD Radeon 740M Graphics,RDNA 3.0
 AMD Radeon 760M Graphics,RDNA 3.0
 AMD Radeon 780M Graphics,RDNA 3.0
+AMD Radeon 890M Graphics,RDNA 3.5
 AMD Radeon Graphics,Unknown
 AMD Radeon HD 4350,TeraScale
 AMD Radeon HD 4650,TeraScale
@@ -210,6 +211,7 @@ AMD Radeon RX 6900 XT,RDNA 2.0
 AMD Radeon RX 6950 XT,RDNA 2.0
 AMD Radeon RX 7600 XT,RDNA 3.0
 AMD Radeon RX 7600M XT,RDNA 3.0
+AMD Radeon RX 7650 GRE,RDNA 3.0
 AMD Radeon RX 7700 XT,RDNA 3.0
 AMD Radeon RX 7800 XT,RDNA 3.0
 AMD Radeon RX 7900 GRE,RDNA 3.0
@@ -219,6 +221,7 @@ AMD Radeon RX 9070 GRE,RDNA 4.0
 AMD Radeon RX Vega,GCN 5.0
 AMD Radeon RX Vega 10 Graphics,GCN 5.0
 AMD Radeon RX Vega 11 Graphics,GCN 5.0
+AMD Radeon RX Vega 20,Unknown
 AMD Radeon RX590 GME,Unknown
 AMD Radeon VII,GCN 5.1
 AMD Radeon Vega 10 Mobile Graphics,GCN 5.0
@@ -257,6 +260,7 @@ ATI Radeon HD 7950,GCN 1.0
 ATI Radeon HD 7970,GCN 1.0
 ATI Radeon HD 8800 Series,GCN 1.0
 Desktop Haswell GT1,Generation 7.5
+Intel Arc Graphics,Xe-LPG
 Intel Cherryview Cherrytrail,Unknown
 Intel Desktop Haswell GT1,Generation 7.5
 Intel G33/G31 Express,Generation 3.0
@@ -529,6 +533,7 @@ NVIDIA GeForce RTX 2080 Ti,Turing
 NVIDIA GeForce RTX 3050,Ampere
 NVIDIA GeForce RTX 3050 4GB Laptop GPU,Ampere
 NVIDIA GeForce RTX 3050 6GB Laptop GPU,Ampere
+NVIDIA GeForce RTX 3050 A Laptop GPU,Ampere
 NVIDIA GeForce RTX 3050 Laptop GPU,Ampere
 NVIDIA GeForce RTX 3050 OEM,Ampere
 NVIDIA GeForce RTX 3050 Ti,Ampere
@@ -561,16 +566,20 @@ NVIDIA GeForce RTX 4080 SUPER,Ada Lovelace
 NVIDIA GeForce RTX 4090,Ada Lovelace
 NVIDIA GeForce RTX 4090 D,Ada Lovelace
 NVIDIA GeForce RTX 4090 Laptop GPU,Ada Lovelace
+NVIDIA GeForce RTX 5050,Unknown
+NVIDIA GeForce RTX 5050 Laptop GPU,Unknown
 NVIDIA GeForce RTX 5060,Blackwell
 NVIDIA GeForce RTX 5060 Laptop GPU,Blackwell
 NVIDIA GeForce RTX 5060 Ti,Blackwell
 NVIDIA GeForce RTX 5070,Blackwell
+NVIDIA GeForce RTX 5070 Laptop GPU,Blackwell
 NVIDIA GeForce RTX 5070 Ti,Blackwell
 NVIDIA GeForce RTX 5070 Ti Laptop GPU,Blackwell
 NVIDIA GeForce RTX 5080,Blackwell
 NVIDIA GeForce RTX 5080 Laptop GPU,Blackwell
 NVIDIA GeForce RTX 5090,Blackwell
 NVIDIA GeForce RTX 5090 D,Blackwell
+NVIDIA GeForce RTX 5090 D V2,Blackwell
 NVIDIA GeForce RTX 5090 Laptop GPU,Blackwell
 NVIDIA GeForce RTX T10-8,Turing
 NVIDIA Graphics Device,Unknown
