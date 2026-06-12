@@ -26,7 +26,7 @@
 
 * They are equivalent to aforementoined ones, with the difference that dx12 ones only includes DX12 compatible system
 
-# arch_stats.png / arch_stats_xkcd.png
+# arch_stats.png
 
 * Graphs that show movement of architecture market shares
 

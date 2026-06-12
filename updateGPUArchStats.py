@@ -84,38 +84,29 @@ def update_gpu_arch_stats(description_filter, file_suffix = ""):
     archs_to_plot = list(archs_to_plot.items())
     archs_to_plot.sort(key=lambda x: x[0])
 
-    for xkcd in [False, True]:
-        if xkcd:
-            plt.xkcd()
-        else:
-            plt.rcdefaults()
+    for arch, stats in archs_to_plot:
+        stats_dict = dict(stats)
+        for date in dates_to_plot:
+            if date not in stats_dict:
+                stats.append((date, 0))
+        stats.sort(key=lambda x: x[0])
+        dates, percentages = zip(*stats)
+        if arch not in plot_colors:
+            missing_colors.add(arch)
+        color = plot_colors.get(arch, '#ff00ff')
+        color = color.strip()
+        plt.plot(dates, percentages, label=arch, color=color)
 
-        for arch, stats in archs_to_plot:
-            stats_dict = dict(stats)
-            for date in dates_to_plot:
-                if date not in stats_dict:
-                    stats.append((date, 0))
-            stats.sort(key=lambda x: x[0])
-            dates, percentages = zip(*stats)
-            if arch not in plot_colors:
-                missing_colors.add(arch)
-            color = plot_colors.get(arch, '#ff00ff')
-            color = color.strip()
-            plt.plot(dates, percentages, label=arch, color=color)
-
-        if xkcd:
-            plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), fontsize='small')
-        else:
-            plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
-        plt.xlabel('Date')
-        plt.ylabel('Percentage')
-        plt.title('GPU Architecture Usage')
-        fig = plt.gcf()
-        fig.set_size_inches(20, 10)
-        
-        output_plot = 'arch_stats' + file_suffix + ('_xkcd' if xkcd else '') + '.png'
-        plt.savefig(output_plot)
-        plt.close()
+    plt.legend(loc='center left', bbox_to_anchor=(1, 0.5))
+    plt.xlabel('Date')
+    plt.ylabel('Percentage')
+    plt.title('GPU Architecture Usage')
+    fig = plt.gcf()
+    fig.set_size_inches(20, 10)
+    
+    output_plot = f'arch_stats{file_suffix}.png'
+    plt.savefig(output_plot)
+    plt.close()
 
 update_gpu_arch_stats('Video Card Description (Windows)')
 update_gpu_arch_stats('DirectX 12 Systems (Win10 with DX 12 GPU)', '_dx12')
